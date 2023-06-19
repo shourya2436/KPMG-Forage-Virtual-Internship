@@ -42,6 +42,15 @@ Developed a dashboard using Tableau that displays the data summary and results o
 
 
 
-[Dashboard](https://github.com/shourya2436/KPMG-Forage-Virtual-Internship/blob/c37532be2de1e24464ac9d05f69da50b4e8547a5/KPMG-DataAnalysis/Dashboards.pdf)
+### [Dashboard](https://github.com/shourya2436/KPMG-Forage-Virtual-Internship/blob/c37532be2de1e24464ac9d05f69da50b4e8547a5/KPMG-DataAnalysis/Dashboards.pdf) ###
 
-[DataSource](https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb)
+Comparing Mens and Females Customers of the Sprocket Database
+![](https://github.com/shourya2436/KPMG-Forage-Virtual-Internship/blob/dad4443b97dc31e58b430a4602e72fbacbedc140/KPMG-DataAnalysis/dashboard-1.png)
+
+Transaction made by different customes , thier choice of Brand , Product Line , Product Class and Product Size 
+![](https://github.com/shourya2436/KPMG-Forage-Virtual-Internship/blob/dad4443b97dc31e58b430a4602e72fbacbedc140/KPMG-DataAnalysis/dashboard-2.png)
+
+Customers to  target 
+![](https://github.com/shourya2436/KPMG-Forage-Virtual-Internship/blob/dad4443b97dc31e58b430a4602e72fbacbedc140/KPMG-DataAnalysis/dashboard-3.png)
+
+### [DataSource](https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb) ###
